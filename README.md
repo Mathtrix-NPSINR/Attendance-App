@@ -1,2 +1,2 @@
-# AttendanceApp
+# Attendance-App
 Mathtrix Attendance App
